@@ -4,10 +4,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Project Mockup" src=".github/mockup.png" width="100%">
-</p>
-
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -23,6 +19,6 @@ O projeto consiste em um clone da interface da página principal do site da [Net
 - Instale as dependências com `yarn`
 - Crie uma conta no TheMovieDB e gere sua `api key`
 - Vá em `src/services/api.ts` e altere o valor da `api_key` pelo valor da sua `api key`
-- Inicie o servidor com `yarn dev`
+- Inicie o servidor com `yarn start`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
